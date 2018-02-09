@@ -1,1 +1,1 @@
-# mini_ex_all
+Mini exercises for AP2018
