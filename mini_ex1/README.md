@@ -1,5 +1,5 @@
 ![alt text](https://github.com/thomasthomsen16/mini_ex_all/blob/master/mini_ex1/mini_ex1_scr.png?raw=true=)
-https://rawgit.com/thomasthomsen16/mini_ex1/master/mini_ex1/empty-example/index.html
+https://rawgit.com/thomasthomsen16/mini_ex_all/master/mini_ex1/empty-example/index.html
 
 For my first program I wanted to experiment with variables. I found an example, where a line moved across a screen, where a variable was essential part of the process. I studied the syntax for quite long a time, since I had no prior experience with variables. Eventually I was able to replicate the syntax. I found this a bit boring however, so I started to experiment with modifying the code to a different shape. I settled on a circle, that became increasingly smaller.
    Coding has a lot of similarities with writing a normal text: There is lines, a language of sorts with rules (grammar and so on), and a lot of considerations on what and how to express it. There is a difference in the process itself. When I write, I use it as tool for thinking. With programming however, I don’t know enough syntaxes and have enough experience, so that I can code without the need to research syntaxes, functions and examples. I hope, that I will eventually be able to code without the need for research, so that the process becomes more of a thinking tool.
