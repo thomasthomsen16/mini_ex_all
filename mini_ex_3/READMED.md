@@ -1,4 +1,4 @@
-![alt text (throbber.png)
+![alt text] (https://github.com/thomasthomsen16/mini_ex_all/blob/master/mini_ex_3/throbber.png?raw=true)
 
 
 For this program I primarily used the frameCount() in terms of time related syntax. The frameCount() essentially controls the most important aspect in the program – how fast the text is rotating (i.e. the throbber) . A higher frameCount() will make the text faster and vice versa for a lower frameCount() and thereby changing the feel of time for viewer. With a low frameCount, as I have you used, the text can be compared to something glitchy and slow moving – essentially stretching the time.
