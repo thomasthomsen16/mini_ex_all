@@ -1,3 +1,7 @@
+![alt text](Scr_mini_ex5.png"
+
+https://rawgit.com/thomasthomsen16/mini_ex_all/master/mini_ex5/empty-example/index.html
+
 Describe how does your game/game object works?
 
 For this mini ex I wanted to create something that resembled a very simple game. I settled on space game taking inspiration from old arcade games – this included the overall aesthetic such as the font for the title, the music and the moving lines for the ‘space’ effect. 
