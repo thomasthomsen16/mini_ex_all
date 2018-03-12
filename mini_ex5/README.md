@@ -1,4 +1,4 @@
-![alt text](Scr_mini_ex5.png")
+![alt text](Scr_mini_ex5.png)
 
 https://rawgit.com/thomasthomsen16/mini_ex_all/master/mini_ex5/empty-example/index.html
 
