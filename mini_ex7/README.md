@@ -6,6 +6,8 @@ https://rawgit.com/thomasthomsen16/mini_ex_all/master/mini_ex7/empty-example/ind
 
 By Thomas Thomsen & Sille Kock
 
+*" 'secondary notation,'  a pejorative term suggesting that code ’ s primary purpose is to be executed by a computer, and only secondarily to be understood by a human.”* 
+
 #### Analysis 
 
 
