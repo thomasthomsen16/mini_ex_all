@@ -17,6 +17,12 @@ ualizes
 At first, we had a very hard time understanding how to build our program. Working with APIs was very new to us, so the whole process was very frustrating at times. Because of our inexperience we relied a lot on the video from Daniel Shiffman, where he uses the Openweather API, and Winnies code. The fact that the handling of data was asynchronous was at times very hard times to wrap my head around, since I have been used to the data input happen at the same time as all the other processes.
    One thing I found very frustrating with working this API, and APIs in general, was the fact how hard it can be to debug and find flaws/breakdown in the code when working with API. Console.log() only provides a very tiny part of the breakdown in code and we ended up playing detective quite a lot. This off course made the process very slow at times and we often fund us starring at the screen.
     One example of this was how we specified, what the program was supposed to load from the json file –  i.e. the rain data. In the documentation, they specify, that the path should read rain.3h. This was not true, since we had to acces via bracket notation [‘rain][‘3h]. This took us quite a long to time to figure out and severely halted our progress.
+    Another frustrating thing about working with this API is the fact, that as of the moment of writing, the API doesn’t send any weather data and have therefor removed the path, [‘rain][‘3h], from the json file. This means, that the program doesn’t work, when there isn’t any rain or when the API doesn’t send data for rain. The developers themselves writes:
+
+*”If you do not see some of the parameters in your API respond it means that these weather phenomena are just not happened for the time of measurement for the city or location chosen. Only really measured or calculated data is displayed in API respond.”*
+
+One thing I would have preferred was, that the API just sent a value of zero instead, so that the API call still included the path for the rain data.
+
 
 #### Question for further investigation
 
