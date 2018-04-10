@@ -24,3 +24,14 @@ One the obvious differences between the two flowcharts is, that the one for mini
 
 
 #### (Individual) Reflections on algorithm and flowchart
+
+Start ud med at snakke om extended mind
+
+-	Algoritmer som ‘the extended mind’: “[…] a framing of cognition that accommodates the many ways in which it spills out of the conscious brain into the body and our surrounding social and technical environments” – s. 37
+   o	Konsekvensen af dette: “[…] our interaction with the technology of the written word not only changed the medium of thought, extending it to external papers, scrolls and other material stuff, but it also changed the mode of thought.” – s. 38
+
+-	Algoritmers kulturelle indflydelse, her med eksempel fra staveprogrammer: ”[…] harder to distinguish from broader cultural environments: to what extent are spell-check programs changing diction and grammatical choices through their billions of subtle corrections, and how do we disentangle the assemblage of code, dictionaries, and grammars that underlie them?” – s. 16
+
+Snak herefter om faren ved dette, da algoritmer altid har en vis bias, og de influerer vores tænkning så meget, kan det være kritisk i forhold til, måden vi tænker på (afskærer visse måder at tænke på) og at bestemte firmaer/personer(Facebook, Google osv.) kan påvirke i så stor grad i takt med den stigende digitalisering.
+
+But software engineers construct the datasets mined by scoring systems; they define the parameters of data-mining analyses; they create the clusters, links, and decision trees applied; they generate the predictive models applied. Human biases and values are embedded into each and every step of development. Computerization may simply drive discrimination upstream.” – s. 21
