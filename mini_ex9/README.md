@@ -16,4 +16,4 @@ Group 6: Thomas Thomsen, Sille Nygaard Kock, Nanna Størup & Rasmus skov
 
 #### (Individual) Differences between flowchart for mini ex 6 and flowchart for group
 
-#### Reflections
+#### (Individual) Reflections on algorithm and flowchart
