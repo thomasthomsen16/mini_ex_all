@@ -12,7 +12,20 @@ One of the things I found most difficult, and what I expect is the most difficul
 
 Group 6: Thomas Thomsen, Sille Nygaard Kock, Nanna Størup & Rasmus skov
 
-#### Technical challenges and solutions
+#### Idea 1
+
+#### Technical challenges and solutions for idea 1
+
+![alt text](EksamenFlowchart.png)
+
+One of the primary difficulties in doing this is in the aesthetic expression. Since our program deals with simulating processes seen in nature, our code will have to mimic those, so that the viewer immediately knows, that it is a process seen in nature - i.e. growth seen in trees, plants, bushes and so on. We will have to research a lot about how to code processes seen in nature. Fortunately, Daniel Shiffman has made a series of videos about this subject, that we can use as a basis for our work.
+   At the same time, we will have to define a limit in how far we will go in mimicking these processes. These are highly complex and could possible fill up thousands upon thousands lines of code. We don’t have the time nor the experience for this job, so we will have to limit ourselves.
+   
+#### Idea 2
+
+![alt text](EksamenFlowchart2.png)
+
+
 
 
 
