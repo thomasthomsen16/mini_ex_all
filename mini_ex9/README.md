@@ -27,7 +27,7 @@ One of the primary difficulties in doing this is in the aesthetic expression. Si
 
 #### Technical challenges and solutions for idea 2
 
-
+ Lastly, it’s important that we find a way to balance the penalty from being impatient and the reward for being patient. As an example: if the ‘end goal’ is instantly reached when patience is registered, the user won’t understand the impact she has on the program - same goes if the ‘end goal’ is never reached if impatuence is registered.
 
 #### (Individual) Differences between flowchart for mini ex 6 and flowchart for group
 
