@@ -38,13 +38,13 @@ One the obvious differences between the two flowcharts is, that the one for mini
 
 #### (Individual) Reflections on algorithm and flowchart
 
-Start ud med at snakke om extended mind
+One very interesting way of thinking about algorithms, is to think of them as an extended mind. Algorithms is at the core of every interaction with digital artifacts today and a lot of these artifacts has unloaded some the cognitive processes with often burden ourselves with. As Ed Finn put it:
 
--	Algoritmer som ‘the extended mind’: “[…] a framing of cognition that accommodates the many ways in which it spills out of the conscious brain into the body and our surrounding social and technical environments” – s. 37
-   o	Konsekvensen af dette: “[…] our interaction with the technology of the written word not only changed the medium of thought, extending it to external papers, scrolls and other material stuff, but it also changed the mode of thought.” – s. 38
+*“[…] a framing of cognition that accommodates the many ways in which it spills out of the conscious brain into the body and our surrounding social and technical environments”* – p. 37
 
--	Algoritmers kulturelle indflydelse, her med eksempel fra staveprogrammer: ”[…] harder to distinguish from broader cultural environments: to what extent are spell-check programs changing diction and grammatical choices through their billions of subtle corrections, and how do we disentangle the assemblage of code, dictionaries, and grammars that underlie them?” – s. 16
+One example of this can be seen in what one might call “the Google mind”, which has reduced the need to memorize specific things, since we can just Google it. Another example comes from the use of text-editing software, such as Microsoft Word, where the spell check algorithm helps and lessens the cognitive strain of remembering the spelling of specific words. Think of the way it automatically corrects words or underline misspellings. Algorithms has effectively changed the way we think. Finn relates this the revolution of the written word and how we produce written text: 
 
-Snak herefter om faren ved dette, da algoritmer altid har en vis bias, og de influerer vores tænkning så meget, kan det være kritisk i forhold til, måden vi tænker på (afskærer visse måder at tænke på) og at bestemte firmaer/personer(Facebook, Google osv.) kan påvirke i så stor grad i takt med den stigende digitalisering.
+*“[…] our interaction with the technology of the written word not only changed the medium of thought, extending it to external papers, scrolls and other material stuff, but it also changed the mode of thought.”* – p. 38
 
-But software engineers construct the datasets mined by scoring systems; they define the parameters of data-mining analyses; they create the clusters, links, and decision trees applied; they generate the predictive models applied. Human biases and values are embedded into each and every step of development. Computerization may simply drive discrimination upstream.” – s. 21
+The danger of this lies into the inherent bias that all algorithms are imbued with. Algorithms are not neutral agents, but rather a consequence of software engineers choices when designing the algorithm. The engineers themselves have certain world view and ways of thinking, that is transferred into the algorithm itself. This combined with the increasingly role for algorithms in our everyday life and digitalization can streamline the collective mode thought and cut of other ways of thinking. 
+
